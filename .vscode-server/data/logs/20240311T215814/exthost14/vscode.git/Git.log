@@ -1,0 +1,37 @@
+2024-03-11 23:31:16.115 [info] Log level: Info
+2024-03-11 23:31:16.115 [info] Validating found git in: "git"
+2024-03-11 23:31:16.115 [info] Using git "2.34.1" from "git"
+2024-03-11 23:31:16.115 [info] > git rev-parse --show-toplevel [2ms]
+2024-03-11 23:31:16.115 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-11 23:56:12.657 [info] > git rev-parse --show-toplevel [1ms]
+2024-03-11 23:56:12.657 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-11 23:58:55.154 [info] > git rev-parse --show-toplevel [2ms]
+2024-03-11 23:58:55.154 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-12 00:10:19.992 [info] > git rev-parse --show-toplevel [1ms]
+2024-03-12 00:10:19.992 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-12 00:10:23.216 [info] > git rev-parse --show-toplevel [4ms]
+2024-03-12 00:10:23.216 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-12 00:14:32.298 [info] > git rev-parse --show-toplevel [2ms]
+2024-03-12 00:14:32.298 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-12 00:14:38.075 [info] > git rev-parse --show-toplevel [2ms]
+2024-03-12 00:14:38.075 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-12 00:18:13.644 [info] > git rev-parse --show-toplevel [2ms]
+2024-03-12 00:18:13.644 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-12 00:28:29.589 [info] > git rev-parse --show-toplevel [3ms]
+2024-03-12 00:28:29.589 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-12 00:32:56.783 [info] > git rev-parse --show-toplevel [10ms]
+2024-03-12 00:32:56.784 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-12 00:35:54.100 [info] > git rev-parse --show-toplevel [1ms]
+2024-03-12 00:35:54.105 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-03-12 00:35:54.115 [info] Open repository: /var/www/html/tarea_C
+2024-03-12 00:35:54.129 [info] No remotes found in the git config file.
+2024-03-12 00:35:54.130 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-03-12 00:35:54.131 [warning] No such branch: master.
+2024-03-12 00:35:54.131 [info] > git config --get commit.template [11ms]
+2024-03-12 00:35:54.142 [info] > git status -z -uall [5ms]
+2024-03-12 00:35:54.169 [info] No remotes found in the git config file.
+2024-03-12 00:35:54.172 [info] > git config --get commit.template [11ms]
+2024-03-12 00:35:54.172 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-03-12 00:35:54.172 [warning] No such branch: master.
+2024-03-12 00:35:54.180 [info] > git status -z -uall [2ms]
+2024-03-12 00:35:54.673 [info] > git check-ignore -v -z --stdin [2ms]

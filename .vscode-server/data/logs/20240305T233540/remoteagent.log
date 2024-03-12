@@ -1,0 +1,13 @@
+2024-03-05 23:35:40.206 [info] 
+
+
+
+
+2024-03-05 23:35:40.243 [info] Extension host agent started.
+2024-03-05 23:35:40.718 [info] [127.0.0.1][fb056f7c][ManagementConnection] New connection established.
+2024-03-05 23:35:40.721 [info] [127.0.0.1][314eea3d][ExtensionHostConnection] New connection established.
+2024-03-05 23:35:40.887 [info] [127.0.0.1][314eea3d][ExtensionHostConnection] <1304> Launched Extension Host Process.
+2024-03-05 23:40:40.245 [info] New EH opened, aborting shutdown
+2024-03-06 02:39:46.813 [info] [127.0.0.1][fb056f7c][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-03-06 02:39:46.888 [info] [127.0.0.1][314eea3d][ExtensionHostConnection] <1304> Extension Host Process exited with code: 0, signal: null.
+2024-03-06 02:39:46.889 [info] Last EH closed, waiting before shutting down

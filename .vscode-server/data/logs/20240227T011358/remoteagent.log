@@ -1,0 +1,21 @@
+2024-02-27 01:13:59.092 [info] 
+
+
+
+
+2024-02-27 01:13:59.092 [info] Extension host agent started.
+2024-02-27 01:13:59.094 [info] Started initializing default profile extensions in extensions installation folder. file:///home/cesiaeli/.vscode-server/extensions
+2024-02-27 01:13:59.158 [info] [127.0.0.1][669fdeae][ExtensionHostConnection] New connection established.
+2024-02-27 01:13:59.160 [info] [127.0.0.1][7f3be70f][ManagementConnection] New connection established.
+2024-02-27 01:13:59.160 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/cesiaeli/.vscode-server/extensions
+2024-02-27 01:13:59.378 [info] [127.0.0.1][669fdeae][ExtensionHostConnection] <1922> Launched Extension Host Process.
+2024-02-27 01:15:56.658 [info] [127.0.0.1][7f3be70f][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-02-27 01:15:56.767 [info] [127.0.0.1][669fdeae][ExtensionHostConnection] <1922> Extension Host Process exited with code: 0, signal: null.
+2024-02-27 01:15:56.768 [info] Cancelling previous shutdown timeout
+2024-02-27 01:15:56.768 [info] Last EH closed, waiting before shutting down
+2024-02-27 01:16:09.036 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2024-02-27 01:16:09.036 [info] Cancelling previous shutdown timeout
+2024-02-27 01:16:09.202 [info] [127.0.0.1][c4da22b7][ManagementConnection] New connection established.
+2024-02-27 01:16:09.207 [info] [127.0.0.1][0267eb6d][ExtensionHostConnection] New connection established.
+2024-02-27 01:16:09.217 [info] [127.0.0.1][0267eb6d][ExtensionHostConnection] <2084> Launched Extension Host Process.
+2024-02-27 01:21:09.038 [info] New EH opened, aborting shutdown

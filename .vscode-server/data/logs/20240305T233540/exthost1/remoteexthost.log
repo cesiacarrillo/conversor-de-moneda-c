@@ -1,0 +1,17 @@
+2024-03-05 23:35:42.594 [info] Extension host with pid 1304 started
+2024-03-05 23:35:42.594 [error] Error: EEXIST: file already exists, open '/home/cesiaeli/.vscode-server/data/User/workspaceStorage/c4e3096f5d4cff36ad20c985ea24f371/vscode.lock'
+2024-03-05 23:35:42.616 [info] Lock '/home/cesiaeli/.vscode-server/data/User/workspaceStorage/c4e3096f5d4cff36ad20c985ea24f371/vscode.lock': Could not acquire lock, checking if the file is stale.
+2024-03-05 23:35:42.617 [info] Lock '/home/cesiaeli/.vscode-server/data/User/workspaceStorage/c4e3096f5d4cff36ad20c985ea24f371/vscode.lock': The pid 1991 appears to be gone.
+2024-03-05 23:35:42.617 [info] Lock '/home/cesiaeli/.vscode-server/data/User/workspaceStorage/c4e3096f5d4cff36ad20c985ea24f371/vscode.lock': Deleting a stale lock.
+2024-03-05 23:35:42.675 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-03-05 23:35:42.737 [info] Lock '/home/cesiaeli/.vscode-server/data/User/workspaceStorage/c4e3096f5d4cff36ad20c985ea24f371/vscode.lock': Lock acquired.
+2024-03-05 23:35:42.875 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-03-05 23:35:43.031 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-03-05 23:35:43.032 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-03-05 23:35:44.465 [info] Eager extensions activated
+2024-03-05 23:35:44.465 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-03-05 23:35:44.466 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-03-06 01:38:16.841 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2024-03-06 02:39:46.808 [info] Extension host terminating: received terminate message from renderer
+2024-03-06 02:39:46.809 [info] Lock '/home/cesiaeli/.vscode-server/data/User/workspaceStorage/c4e3096f5d4cff36ad20c985ea24f371/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-03-06 02:39:46.867 [info] Extension host with pid 1304 exiting with code 0
